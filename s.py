@@ -12,3 +12,8 @@ print("addition of given values is:")
 print(add())
 print("substraction of given values is:")
 print(sub())
+OUTPUT
+addition of given values is:
+70
+substraction of given values is:
+-30
