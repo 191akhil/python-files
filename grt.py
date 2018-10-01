@@ -11,4 +11,12 @@ print("b:",b)
 if(a>b):
 	print(a,"is greater")
 else:
-	print(b,"is greater")	  
+	print(b,"is greater")	
+	
+OUTPUT
+enter value of a: 98
+enter value of b: 99
+a: 98
+b: 99
+99 is greater
+
