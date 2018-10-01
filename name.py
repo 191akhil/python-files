@@ -10,3 +10,6 @@ def greet(name):
 n=input("what is your name?")
 
 greet(n)
+OUTPUT
+what is your name?akhil
+hello akhil
