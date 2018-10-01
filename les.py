@@ -11,4 +11,13 @@ print("b:",b)
 if(a<b):
 	print(a,"is lesser")
 else:
-	print(b,"is lesser")	  
+	print(b,"is lesser")
+	
+OUTPUT
+
+enter value of a: 12
+enter value of b: 13
+a: 12
+b: 13
+12 is lesser
+
