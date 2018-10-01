@@ -11,3 +11,11 @@ e=a*b
 print("multiplication of a and b:",e)
 f=a/b
 print("division of a and b:",f)
+
+OUTPUT
+value of a:6
+value of b:8
+addition of a and b: 14
+substaction of a and b: -2
+multiplication of a and b: 48
+division of a and b: 0.75
