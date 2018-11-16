@@ -19,4 +19,18 @@ try:
 except sr.UnknownValueError:
 	print("Google Speech Recognition could not understand audio")
 except sr.RequestError as e:
-	print("Could not request results from Google Speech Recognition service; {0}".format(e))
+	print("Could not request results from Google Speech Recognition service; {0}".format(e))ALSA lib pcm_dsnoop.c:618:(snd_pcm_dsnoop_open) unable to open slave
+	
+OUTPUT
+
+ALSA lib pcm_dsnoop.c:618:(snd_pcm_dsnoop_open) unable to open slave
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2495:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm_route.c:867:(find_matching_chmap) Found no matching channel map
+ALSA lib pcm_route.c:867:(find_matching_chmap) Found no matching channel map
+ALSA lib pcm_route.c:867:(find_matching_chmap) Found no matching channel map
+Say something!
+You said: hello
+
+	
