@@ -10,4 +10,19 @@ while(1):
 		print("computer wins")
 	else:
 		print("player wins")
+		
+OUTPUT
+	enter 'r','p','s'r
+computer p
+computer wins
+enter 'r','p','s's
+computer p
+player wins
+enter 'r','p','s'r
+computer p
+computer wins
+enter 'r','p','s'p
+computer p
+tie
+	
     	
