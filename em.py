@@ -22,3 +22,8 @@ s.sendmail(myemail,recemail,message)
 
 #terminating the session
 s.quit()
+
+OUTPUT
+your email id :akhilakhi7013@gmail.com
+Password: 
+receiver's email id :akhilroyals1354@gmail.com
