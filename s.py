@@ -17,3 +17,11 @@ addition of given values is:
 70
 substraction of given values is:
 -30
+
+
+OUTPUT
+addition of given values is:
+70
+substraction of given values is:
+-30
+
